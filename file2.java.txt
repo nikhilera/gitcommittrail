@@ -1,4 +1,0 @@
-This is JAVA code #1
-This is JAVA code #2
-This is JAVA code #3
-This is JAVA code #4
